@@ -1,0 +1,203 @@
+/* banner styles  */
+.banner-content{
+    background-image: url(..//resources/Banner\ Image.png);
+    background-repeat: no-repeat;
+    background-position-x: 220px ;
+    background-position-y: 30px ;
+}
+.celebration-party{
+    color:white;
+    text-align: justify;
+    font-size: 72px;
+    font-weight: 900;
+    padding-top: 0px;
+    padding-bottom: 340px;
+    padding-left: 500px;
+    padding-right: 330px;
+    
+}
+.new-year{
+    color:#FFF;
+text-align: center;
+font-size: 32px;
+font-weight: 400;
+padding-top: 177px;
+padding-bottom: 0px;
+padding-left: 530px;
+padding-right: 530px;
+}
+.categories-content{
+background-color: #FFF;
+max-width: 600px;
+max-height: 7335px;
+padding-top: 120px;
+    padding-bottom: 48px;
+    padding-left: 530px;
+    padding-right: 550px;
+    list-style: none;
+}
+.off-content{
+    color: #F00;
+    text-align: center;
+    font-size: 70px;
+    font-weight: 600;
+    
+}
+.holiday-content{
+    color: #F00;
+text-align: center;
+font-size: 24px;
+font-weight: 500;
+padding-top: 48px;
+
+}
+.all-content{
+    color: #070211;
+text-align: center;
+font-size: 48px;
+font-weight: 700;
+
+}
+.image-content{
+    padding-top: 48px;
+    padding-right: 119px;
+    padding-left: 0px;
+
+}
+
+
+/* main */
+span{
+    color: red;
+}
+    .mn{
+        background-color: bisque;
+        align-items: center;
+        margin-bottom: 100px;
+        margin-top: 100px;
+        margin-right: 220px;
+        margin-left: 220px;
+        
+    }
+        .main{
+    padding-left: 385px;
+    padding-right: 386px;
+    padding-top: 140px;
+    padding-bottom: 244px;
+text-align: center;
+font-family: Inter;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: 56px; /* 175% */
+text-transform: capitalize;
+list-style: none;
+    }
+    /* button */
+.btn{
+    font-size: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    border-radius: 8px;
+background: #F00;
+color:white;
+border: none;
+}
+.BTN{
+    padding-left: ;
+    padding-right: ;
+    padding-top: 78px;
+    padding-bottom: 0px;
+}
+
+.midnight-content{
+    display: flex;
+    background-image: url(..//resources/Vectorrr.png);
+    background-repeat: no-repeat;
+    background-position-x: 220px ;
+    background-position-y: 30px ;
+}
+.welcome-content{
+    color:white;
+font-size: 64px;
+font-weight: 900;
+padding-left: 362px;
+padding-right: 74px;
+padding-top: 86px;
+padding-bottom: 0px;
+}
+.text-content{
+    color:white;
+font-size: 18px;
+font-weight: 400;
+padding-left: 362px;
+padding-right: 70px;
+padding-bottom: 24px;
+padding-top: 0px;
+}
+.button-content{
+    color: white;
+text-align: center;
+font-size: 20px;
+font-weight: 700px;
+text-transform: uppercase;
+padding-top: 38px;
+padding-bottom: 200px;
+padding-left: 69px;
+padding-right: 270px;
+
+}
+.image2-content{
+    
+padding-right: 350px;
+padding-left: 0px;
+padding-top: 70px;
+padding-bottom: 270px;
+    
+}
+.section-three{
+list-style: none;
+        margin-bottom: 100px;
+        margin-top: 100px;
+        margin-right: 220px;
+        margin-left: 220px;
+
+
+}
+.section-three-two{
+list-style: none;
+display: flex;
+padding-left: 0px;
+padding-top: 22px;
+
+}
+.rec-3{
+padding-right: 10px;
+}
+.section-three-three{
+    display: flex;
+    padding-left: 0px;
+    padding-top: 10px;
+    list-style: none;
+}
+
+.gift-contents{
+    color: #F00;
+    font-size: 34px;
+    font-weight: 700;
+}
+.second-line{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+padding-top: 10px;
+}
+.third-line{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    padding-top: 20px;
+    padding-right: 564px;
+}
